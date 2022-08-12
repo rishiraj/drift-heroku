@@ -1,0 +1,6 @@
+mlflow
+pandas
+numpy
+requests
+evidently
+plotly
